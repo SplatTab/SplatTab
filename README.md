@@ -14,3 +14,8 @@
                                                     ░█▀▀░█▀█░█░░░█▀█░▀█▀░▀█▀░█▀█░█▀▄
                                                     ░▀▀█░█▀▀░█░░░█▀█░░█░░░█░░█▀█░█▀▄
                                                     ░▀▀▀░▀░░░▀▀▀░▀░▀░░▀░░░▀░░▀░▀░▀▀░
+                                                    
+                                                    
+                                                    
+## My Stats                                                    
+![SplatTab's Stats](https://github-readme-stats.vercel.app/api?username=splattab&show_icons=true&theme=dark)
