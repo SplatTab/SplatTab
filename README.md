@@ -9,7 +9,6 @@
                                         Discord: SplatTab#1417                              |
                                         Email: skidm44@gmail.com                            |
                                         _____________________________________________________                        
- <br>
  
  ![SplatTab's Stats](https://github-readme-stats.vercel.app/api?username=splattab&show_icons=true&theme=dark)
  
