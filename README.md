@@ -1,7 +1,7 @@
 ## Intro
                                                       ██👋 Hi, I’m @SplatTab██
                                         ____________________________________________________
-                                        📝All known languages |C#|C++ & C|PHP|Python|           
+                                        📝All known languages |C#|C++&C|PHP|Python|           
                                         🛠️Other known tools |Unity|0Harmony|RayLib|HTML|CSS|
                                         ____________________________________________________
                                         👀 I’m interested in Software/Video Game Development
