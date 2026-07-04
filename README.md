@@ -16,6 +16,5 @@
                                                     
 ## Cards
  
- ![SplatTab's Stats](https://github-readme-stats.vercel.app/api?username=splattab&show_icons=true&theme=dark)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=splattab&theme=dark&layout=compact&langs_count=10)
-  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SplatTab&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=SplatTab&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SplatTab&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=SplatTab&langs_count=4&theme=transparent)
