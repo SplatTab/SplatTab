@@ -1,8 +1,8 @@
 ## Intro
                                                       ██👋 Hi, I’m @SplatTab██
                                         ____________________________________________________
-                                        📝All known languages |C#|C++&C|PHP|Python|Typescript           
-                                        🛠️Other known tools   |Unity|0Harmony|RayLib|HTML|CSS|
+                                        🛠️ I currently make games in Godot with GDScript
+                                        📝I also enjoy making random software in C and C++      
                                         ____________________________________________________
                                         👀 I’m interested in Software/Video Game Development
                                         _____________________________________________________
