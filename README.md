@@ -2,7 +2,7 @@
                                                       ██👋 Hi, I’m @SplatTab██
                                         ____________________________________________________
                                         🛠️ I currently make games in Godot with GDScript
-                                        📝I also enjoy making random software in C and C++      
+                                        📝I also enjoy making software in C and C++      
                                         ____________________________________________________
                                         👀 I’m interested in Software/Video Game Development
                                         _____________________________________________________
