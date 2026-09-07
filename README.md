@@ -7,7 +7,7 @@
                                         👀 I’m interested in Software/Video Game Development
                                         _____________________________________________________
                                         Contact:                                            |
-                                        Discord: SplatTab                                   |
+                                        Email: aiden.dupre.1@gmail.com                      |
                                         _____________________________________________________                        
                                                                                              
                                                     ░█▀▀░█▀█░█░░░█▀█░▀█▀░▀█▀░█▀█░█▀▄
